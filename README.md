@@ -1,1 +1,1 @@
-# CS50 Introduction to Python Examples
+# CS50 Introduction to Programming with Python Examples
